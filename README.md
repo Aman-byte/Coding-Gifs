@@ -3,7 +3,6 @@ Coding Gifs for Github profiles.
 
 <img alt="Coding Gifs" height=250 width=350 src="https://assets.materialup.com/uploads/4d9cbca5-a4b6-4d3b-b1c2-9a38db38ac78/preview.gif" />
 <br>
-<br>
 <img alt="Coding GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <img alt="Coding GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
